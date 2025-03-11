@@ -1,4 +1,4 @@
-baseURL = 'https://dpiotrkowski.github.io/MES'
+baseURL = "https://dpiotrkowski.github.io/MES"
 languageCode = 'en-us'
 title = 'Opis projektu'
 theme = "ananke"
