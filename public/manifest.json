@@ -1,0 +1,15 @@
+{
+  "name": "Opis projektu",
+  "short_name": "Opis projektu",
+  "start_url": "/MES/",
+  "scope": "/MES/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/MES/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

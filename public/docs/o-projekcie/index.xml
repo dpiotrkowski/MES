@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 O projekcie on Opis projektu</title>
+    <link>http://localhost:1313/MES/docs/o-projekcie/</link>
+    <description>Recent content in 1 O projekcie on Opis projektu</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/MES/docs/o-projekcie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samotność</title>
+      <link>http://localhost:1313/MES/docs/o-projekcie/problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/MES/docs/o-projekcie/problem/</guid>
+      <description>&lt;h2 id=&#34;cel-projektu&#34;&gt;&#xA;  Cel projektu&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cel-projektu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Celem projektu jest stworzenie aplikacji z systemem rekomendacyjnym, która&#xA;ułatwi studentom nawiązywanie relacji łącząc ich poprzez wspólne&#xA;zainteresowania i zachęcając do aktywności offline. Aplikacja ma za zadanie&#xA;połączyć ludzi w realnym świecie, wspierając jednocześnie lokalne firmy i&#xA;tworząc społeczność.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;&#xA;  Problem&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#problem&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Samotność młodych osób to fakt. Pomimo, że jesteśmy skomunikowani jak&#xA;nigdy dotąd, funkcjonujemy w coraz większym odizolowaniu od naszego&#xA;otoczenia. Na forach internetowych regularnie pojawiają się wpisy młodych&#xA;osób dotkniętych tym problemem, chociaż teoretycznie są w najlepszym okresie&#xA;do zawierania nowych znajomości. Niedawna pandemia i zwiększenie ilości&#xA;spędzanego czasu w internecie zdają się nasilać ten problem. Co więcej,&#xA;najpopularniejsze media społecznościowe niekiedy bardziej przeszkadzają niż&#xA;pomagają w nawiązywaniu relacji.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
