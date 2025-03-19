@@ -3,7 +3,6 @@ weight: 1
 title: 1 O projekcie 
 type: docs
 ---
-
 ## Cel projektu
 
 Celem projektu jest stworzenie aplikacji z systemem rekomendacyjnym, która

@@ -2,25 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/MES/docs/o-projekcie/</loc>
+  </url><url>
     <loc>http://localhost:1313/MES/docs/aplikacja/</loc>
   </url><url>
-    <loc>http://localhost:1313/MES/docs/aplikacja/aplikacja/00-open-source/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MES/docs/aplikacja/spis-tre%C5%9Bci/00-open-source/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MES/docs/system-rekomendacyjny/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MES/docs/aplikacja/spis-tre%C5%9Bci/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MES/docs/aplikacja/aplikacja/</loc>
-  </url><url>
     <loc>http://localhost:1313/MES/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/MES/docs/cel_projektu/</loc>
   </url><url>
     <loc>http://localhost:1313/MES/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/MES/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MES/docs/o-projekcie/problem/</loc>
+  </url><url>
+    <loc>http://localhost:1313/MES/docs/system-rekomendacyjny/</loc>
   </url><url>
     <loc>http://localhost:1313/MES/tags/</loc>
   </url>
