@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>O projekcie on Opis projektu</title>
+    <title>1 O projekcie on Opis projektu</title>
     <link>http://localhost:1313/MES/</link>
-    <description>Recent content in O projekcie on Opis projektu</description>
+    <description>Recent content in 1 O projekcie on Opis projektu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/MES/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Samotność</title>
-      <link>http://localhost:1313/MES/docs/o-projekcie/problem/</link>
+      <title>1.2 Rozwiązanie</title>
+      <link>http://localhost:1313/MES/docs/rozwi%C4%85zanie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/MES/docs/o-projekcie/problem/</guid>
-      <description>&lt;h2 id=&#34;cel-projektu&#34;&gt;Cel projektu&lt;/h2&gt;&#xA;&lt;p&gt;Celem projektu jest stworzenie aplikacji z systemem rekomendacyjnym, która&#xA;ułatwi studentom nawiązywanie relacji łącząc ich poprzez wspólne&#xA;zainteresowania i zachęcając do aktywności offline. Aplikacja ma za zadanie&#xA;połączyć ludzi w realnym świecie, wspierając jednocześnie lokalne firmy i&#xA;tworząc społeczność.&lt;/p&gt;&#xA;&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;&#xA;&lt;p&gt;Samotność młodych osób to fakt. Pomimo, że jesteśmy skomunikowani jak&#xA;nigdy dotąd, funkcjonujemy w coraz większym odizolowaniu od naszego&#xA;otoczenia. Na forach internetowych regularnie pojawiają się wpisy młodych&#xA;osób dotkniętych tym problemem, chociaż teoretycznie są w najlepszym okresie&#xA;do zawierania nowych znajomości. Niedawna pandemia i zwiększenie ilości&#xA;spędzanego czasu w internecie zdają się nasilać ten problem. Co więcej,&#xA;najpopularniejsze media społecznościowe niekiedy bardziej przeszkadzają niż&#xA;pomagają w nawiązywaniu relacji.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/MES/docs/rozwi%C4%85zanie/</guid>
+      <description>&lt;p&gt;Chcemy stworzyć narzędzie, które ułatwi poznawanie nowych osób, ale z nastawieniem na zorganizowanie wspólnego spotkania poza platformą. Wbudowany w aplikację system rekomendacyjny pomoże znaleźć pobliskie wydarzenia, dopasowane do zainteresowań osób poznających się. Naszym celem jest, aby studenci poznawali się i spotykali w rzeczywistości, a nie pozostawali w wirtualnym świecie. Nie zależy nam na utrzymywaniu użytkownika na platformie; chcemy, aby skierował uwagę na poznane osoby i zorganizował wspólne spotkania, np. w kinie, muzeum, grając w gry lub uprawiając sport. ## Nowatorskie rozwiązanie Proponowane rozwiązanie wypełnia dotąd niezapełnione nisze, koncentrując się na budowaniu relacji między studentami. Łączenie użytkowników przypomina mechanizm aplikacji randkowych, jednak jest ukierunkowane na budowanie znajomości.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.1 Problem</title>
+      <link>http://localhost:1313/MES/docs/problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/MES/docs/problem/</guid>
+      <description>&lt;h2 id=&#34;samotność&#34;&gt;Samotność&lt;/h2&gt;&#xA;&lt;p&gt;Samotność młodych osób to fakt. Pomimo, że jesteśmy skomunikowani jak&#xA;nigdy dotąd, funkcjonujemy w coraz większym odizolowaniu od naszego&#xA;otoczenia. Na forach internetowych regularnie pojawiają się wpisy młodych&#xA;osób dotkniętych tym problemem, chociaż teoretycznie są w najlepszym okresie&#xA;do zawierania nowych znajomości.&lt;/p&gt;&#xA;&lt;p&gt;Niedawna pandemia i zwiększenie ilości spędzanego czasu w internecie zdają się nasilać ten problem. Co więcej, najpopularniejsze media społecznościowe niekiedy bardziej przeszkadzają niż pomagają w nawiązywaniu relacji.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
