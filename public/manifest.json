@@ -1,6 +1,6 @@
 {
-  "name": "Opis projektu",
-  "short_name": "Opis projektu",
+  "name": "IPI",
+  "short_name": "IPI",
   "start_url": "/MES/",
   "scope": "/MES/",
   "display": "standalone",

@@ -1,5 +1,14 @@
-baseURL = "https://dpiotrkowski.github.io/MES"
-languageCode = 'en-us'
-title = 'Opis projektu'
-theme = "hugo-book"
+baseURL = 'https://dpiotrkowski.github.io/MES'
+languageCode = 'pl-PL'
+title = 'IPI'
+theme = 'hugo-book'
 
+
+# enableGitInfo = true
+disableKinds = ['taxonomy', 'taxonomyTerm']
+[params]
+  BookTheme = 'light'
+  BookToC = true
+ # BookLogo = 'logo.png'
+  BookSection = 'docs'
+  BookRepo = 'https://github.com/dpiotrkowski/MES'

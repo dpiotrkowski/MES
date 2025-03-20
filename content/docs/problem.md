@@ -1,6 +1,7 @@
 ---
 title: 1.1 Problem
 type: docs
+weight: 10
 ---
 ## Samotność 
 Samotność młodych osób to fakt. Pomimo, że jesteśmy skomunikowani jak
@@ -16,3 +17,4 @@ Algorytmy mediów społecznościowych zostały zaprojektowane w taki sposób, ab
 Przyczyniają się do tego, że młode osoby spędzają coraz mniej czasu z rówieśnikami, ograniczając tradycyjne, bezpośrednie spotkania. Z kolei sprzyjają tworzeniu powierzchownych relacji. 
 ## Nie spotykamy się
 Współczesna rzeczywistość cyfrowa sprawia, że mimo stałej łączności, coraz rzadziej dochodzi do autentycznych, bezpośrednich spotkań międzyludzkich. Młodzi ludzie, zanurzeni w wirtualnym świecie, często rezygnują z tradycyjnych form interakcji i spotkań twarzą w twarz, wybierając kontakt za pomocą smartfonów i komputerów. Ta zmiana prowadzi do osłabienia więzi społecznych i ogranicza możliwość budowania głębokich, osobistych relacji, które są fundamentem zdrowej społeczności.
+

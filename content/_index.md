@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 5
 title: 1 O projekcie 
 type: docs
 ---
@@ -10,4 +10,4 @@ ułatwi studentom nawiązywanie relacji łącząc ich poprzez wspólne
 zainteresowania i zachęcając do aktywności offline. Aplikacja ma za zadanie
 połączyć ludzi w realnym świecie, wspierając jednocześnie lokalne firmy i
 tworząc społeczność.
-![[system-rekomendacyjny.svg]]
+![Schemat systemu rekomendacyjnego](img/system-rekomendacyjny.svg)

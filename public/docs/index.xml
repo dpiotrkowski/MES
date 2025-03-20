@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 O projekcie on Opis projektu</title>
+    <title>O projekcie on IPI</title>
     <link>http://localhost:1313/MES/docs/</link>
-    <description>Recent content in 1 O projekcie on Opis projektu</description>
+    <description>Recent content in O projekcie on IPI</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <language>pl-PL</language>
     <atom:link href="http://localhost:1313/MES/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>1.2 Rozwiązanie</title>
-      <link>http://localhost:1313/MES/docs/rozwi%C4%85zanie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/MES/docs/rozwi%C4%85zanie/</guid>
-      <description>&lt;p&gt;Chcemy stworzyć narzędzie, które ułatwi poznawanie nowych osób, ale z nastawieniem na zorganizowanie wspólnego spotkania poza platformą. Wbudowany w aplikację system rekomendacyjny pomoże znaleźć pobliskie wydarzenia, dopasowane do zainteresowań osób poznających się. Naszym celem jest, aby studenci poznawali się i spotykali w rzeczywistości, a nie pozostawali w wirtualnym świecie. Nie zależy nam na utrzymywaniu użytkownika na platformie; chcemy, aby skierował uwagę na poznane osoby i zorganizował wspólne spotkania, np. w kinie, muzeum, grając w gry lub uprawiając sport. ## Nowatorskie rozwiązanie Proponowane rozwiązanie wypełnia dotąd niezapełnione nisze, koncentrując się na budowaniu relacji między studentami. Łączenie użytkowników przypomina mechanizm aplikacji randkowych, jednak jest ukierunkowane na budowanie znajomości.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>1.1 Problem</title>
       <link>http://localhost:1313/MES/docs/problem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/MES/docs/problem/</guid>
-      <description>&lt;h2 id=&#34;samotność&#34;&gt;Samotność&lt;/h2&gt;&#xA;&lt;p&gt;Samotność młodych osób to fakt. Pomimo, że jesteśmy skomunikowani jak&#xA;nigdy dotąd, funkcjonujemy w coraz większym odizolowaniu od naszego&#xA;otoczenia. Na forach internetowych regularnie pojawiają się wpisy młodych&#xA;osób dotkniętych tym problemem, chociaż teoretycznie są w najlepszym okresie&#xA;do zawierania nowych znajomości.&lt;/p&gt;&#xA;&lt;p&gt;Niedawna pandemia i zwiększenie ilości spędzanego czasu w internecie zdają się nasilać ten problem. Co więcej, najpopularniejsze media społecznościowe niekiedy bardziej przeszkadzają niż pomagają w nawiązywaniu relacji.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;samotność&#34;&gt;&#xA;  Samotność&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#samotno%c5%9b%c4%87&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Samotność młodych osób to fakt. Pomimo, że jesteśmy skomunikowani jak&#xA;nigdy dotąd, funkcjonujemy w coraz większym odizolowaniu od naszego&#xA;otoczenia. Na forach internetowych regularnie pojawiają się wpisy młodych&#xA;osób dotkniętych tym problemem, chociaż teoretycznie są w najlepszym okresie&#xA;do zawierania nowych znajomości.&lt;/p&gt;&#xA;&lt;p&gt;Niedawna pandemia i zwiększenie ilości spędzanego czasu w internecie zdają się nasilać ten problem. Co więcej, najpopularniejsze media społecznościowe niekiedy bardziej przeszkadzają niż pomagają w nawiązywaniu relacji.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1.2 Rozwiązanie</title>
+      <link>http://localhost:1313/MES/docs/rozwi%C4%85zanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/MES/docs/rozwi%C4%85zanie/</guid>
+      <description>&lt;h2 id=&#34;nowatorskie-rozwiązanie&#34;&gt;&#xA;  Nowatorskie rozwiązanie&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#nowatorskie-rozwi%c4%85zanie&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Chcemy stworzyć narzędzie, które ułatwi poznawanie nowych osób, ale z nastawieniem na zorganizowanie wspólnego spotkania poza platformą. Wbudowany w aplikację system rekomendacyjny pomoże znaleźć pobliskie wydarzenia, dopasowane do zainteresowań osób poznających się.&lt;/p&gt;&#xA;&lt;p&gt;Naszym celem jest, aby studenci poznawali się i spotykali w rzeczywistości, a nie pozostawali w wirtualnym świecie. Nie zależy nam na utrzymywaniu użytkownika na platformie; chcemy, aby skierował uwagę na poznane osoby i zorganizował wspólne spotkania, np. w kinie, muzeum, grając w gry lub uprawiając sport.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
