@@ -9,6 +9,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
 [params]
   BookTheme = 'light'
   BookToC = true
- # BookLogo = 'logo.png'
+  BookLogo = 'logo.svg'
   BookSection = 'docs'
   BookRepo = 'https://github.com/dpiotrkowski/MES'
